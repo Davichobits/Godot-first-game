@@ -1,0 +1,19 @@
+# Importación de caché
+import/
+.import/
+
+# Archivos de caché del editor
+.godot/
+.mono/
+
+# Archivos temporales y de registro
+*.tmp
+*.log
+
+# Configuración de usuario
+*.cfg
+
+# Archivos y carpetas del sistema operativo
+Thumbs.db
+.DS_Store
+._*
